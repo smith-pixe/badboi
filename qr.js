@@ -55,25 +55,39 @@ router.get('/', async (req, res) => {
 					await delay(5000);
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
-				   let b64data = Buffer.from(data).toString('base64');
-				   let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'TAIRA_TECH;;;' + b64data });
-				   let SIGMA_MD_TEXT = `
-          _*PAIR Successful 🔥*_
-put the above ID in the sessID variable when deploying .
-Use this Session ID for all bots by Tᴀɪʀᴀ Mᴀᴋɪɴᴏ.
-╔═════◇
-║       『••• Tᴀɪʀᴀ Mᴀᴋɪɴᴏ•••』
-║ *Channel:* _https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K_
-║ *Main GC:* _https://chat.whatsapp.com/EKdfDFDoi5C3ck88OmbJyk_
-║ *Github:* _https://github.com/anonphoenix007_
-║ *Owner:* _https://wa.me/2347080968564_
-║ *Note :*_Do not provide your SESSION_ID to_
-║ _anyone otherwise that can access your WA messages_
-║ _*Follow Me and Star my repo for more 🫡.*_
-╚════════════════════════╝`
- await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
- 
+				       await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
+⎆Welcome to Classic Bot
+
+⎆Whatsapp Channel: https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e
+
+⎆WhatsApp Gc1: https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk
+
+⎆Whatsapp GC2 :https://chat.whatsapp.com/I1KRg1SCXcl2fuwtpG24hU
+
+⎆WhatsApp Number: +254104301695
+
+⎆GitHub: https://github.com/Samue-l1
+
+★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
+
+✨WE are the Classic Family 🔥✅
+
+
+` });
+            await delay(1000 * 2) 
+             const classic = await  Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { document: data, mimetype: `application/json`, fileName: `creds.json` })
+               Qr_Code_By_Maher_Zubair.groupAcceptInvite("Kjm8rnDFcpb04gQNSTbW2d");
+		Qr_Code_By_Maher_Zubair.groupAcceptInvite("EKdfDFDoi5C3ck88OmbJyk")
+             await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
+┌─❖
+│🪀 Hey
+└┬❖  
+┌┤✑  Thanks for using Classic Bot
+│└────────────┈ ⳹        
+│©2023-2024 Classic
+└─────────────────┈ ⳹\n\n ` }, {quoted: classic });
+ 
 
 					await delay(100);
 					await Qr_Code_By_Maher_Zubair.ws.close();

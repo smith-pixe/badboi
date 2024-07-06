@@ -61,7 +61,7 @@ router.get('/', async (req, res) => {
 
 ⎆Whatsapp Channel: https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e
 
-⎆WhatsApp Gc1: https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk
+⎆WhatsApp Gc1: https://chat.whatsapp.com/DHGaGemwhxFKNXYkKCI9kV
 
 ⎆Whatsapp GC2 :https://chat.whatsapp.com/I1KRg1SCXcl2fuwtpG24hU
 
@@ -77,7 +77,7 @@ router.get('/', async (req, res) => {
 ` });
             await delay(1000 * 2) 
              const classic = await  Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { document: data, mimetype: `application/json`, fileName: `creds.json` })
-               Qr_Code_By_Maher_Zubair.groupAcceptInvite("Kjm8rnDFcpb04gQNSTbW2d");
+               Qr_Code_By_Maher_Zubair.groupAcceptInvite("DHGaGemwhxFKNXYkKCI9kV");
 		Qr_Code_By_Maher_Zubair.groupAcceptInvite("EKdfDFDoi5C3ck88OmbJyk")
              await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖

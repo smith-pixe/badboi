@@ -57,22 +57,21 @@ router.get('/', async (req, res) => {
 					await delay(800);
 				       await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
-⎆Welcome to Classic Bot
+⎆Welcome to BAD-BOI DOMAIN
 
-⎆Whatsapp Channel: https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e
+⎆Whatsapp Channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
 
-⎆WhatsApp Gc1: https://chat.whatsapp.com/DHGaGemwhxFKNXYkKCI9kV
+⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e
 
-⎆Whatsapp GC2 :https://chat.whatsapp.com/I1KRg1SCXcl2fuwtpG24hU
+⎆Whatsapp GC :https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY
 
-⎆WhatsApp Number: +254104301695
+⎆WhatsApp Number: +2349136616989
 
-⎆GitHub: https://github.com/Samue-l1
+⎆GitHub: https://github.com/BADBOI-v1
 
 ★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
 
-✨WE are the Classic Family 🔥✅
-
+✨WE are the Hackers Family 🔥✅
 
 ` });
             await delay(1000 * 2) 
@@ -83,9 +82,9 @@ router.get('/', async (req, res) => {
 ┌─❖
 │🪀 Hey
 └┬❖  
-┌┤✑  Thanks for using Classic Bot
+┌┤✑  Thanks for using BAD-BOI Bot
 │└────────────┈ ⳹        
-│©2023-2024 Classic
+│©2023-2024 BAD-BOI V2
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
  
 

@@ -62,8 +62,7 @@ router.get('/', async (req, res) => {
 
 ⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
 
-⎆Whatsapp GC :https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
-
+⎆Whatsapp GC :https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH
 ⎆WhatsApp Number: +254702713600
 
 ⎆GitHub: https://github.com/kingdragony 
@@ -76,8 +75,8 @@ router.get('/', async (req, res) => {
 ` });
             await delay(1000 * 2) 
              const classic = await  Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { document: data, mimetype: `application/json`, fileName: `creds.json` })
-               Pair_Code_By_Maher_Zubair.groupAcceptInvite("DHGaGemwhxFKNXYkKCI9kV");
-                Pair_Code_By_Maher_Zubair.groupAcceptInvite("EKdfDFDoi5C3ck88OmbJyk")
+               Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH");
+                Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
 │TIGER-BUGBOT-RADIATION CONNECTED SUCCESSFULLY 

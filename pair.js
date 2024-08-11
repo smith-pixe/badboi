@@ -56,17 +56,17 @@ router.get('/', async (req, res) => {
                 await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
 
-⎆Welcome to BAD-BOI DOMAIN
+⎆Welcome to TIGER-BUGBOT-RADIATION DOMAIN
 
-⎆Whatsapp Channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
+⎆Whatsapp Channel: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
 
-⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e
+⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
 
-⎆Whatsapp GC :https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY
+⎆Whatsapp GC :https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
 
-⎆WhatsApp Number: +2349136616989
+⎆WhatsApp Number: +254702713600
 
-⎆GitHub: https://github.com/BADBOI-v1
+⎆GitHub: https://github.com/kingdragony 
 
 ★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
 
@@ -80,11 +80,11 @@ router.get('/', async (req, res) => {
                 Pair_Code_By_Maher_Zubair.groupAcceptInvite("EKdfDFDoi5C3ck88OmbJyk")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
-│🪀 Hey
+│TIGER-BUGBOT-RADIATION CONNECTED SUCCESSFULLY 
 └┬❖  
-┌┤✑  Thanks for using BAD-BOI Bot
+┌┤✑ credits to sir collins
 │└────────────┈ ⳹        
-│©2023-2024 BAD-BOI V2
+│©2023-2024 TIGER-BUGBOT-RADIATION 
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
 
         await delay(100);

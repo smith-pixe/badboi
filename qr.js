@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
 					await delay(800);
 				       await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
-⎆Welcome to BAD-BOI DOMAIN
+⎆Welcome to THUNDER-CLASSIC-BUGBOT
 
 ⎆Whatsapp Channel: https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x
 
@@ -65,9 +65,9 @@ router.get('/', async (req, res) => {
 
 ⎆Whatsapp GC :https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY
 
-⎆WhatsApp Number: +2349136616989
+⎆WhatsApp Number: +254752588323
 
-⎆GitHub: https://github.com/BADBOI-v1
+⎆GitHub: https://github.com/THUNDER-CLASSIC-BUGBOT
 
 ★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
 
@@ -82,7 +82,7 @@ router.get('/', async (req, res) => {
 ┌─❖
 │🪀 Hey
 └┬❖  
-┌┤✑  Thanks for using BAD-BOI Bot
+┌┤✑  Thanks for using THUNDER-CLASSIC-BUGBOT
 │└────────────┈ ⳹        
 │©2023-2024 BAD-BOI V2
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });

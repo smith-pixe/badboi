@@ -56,7 +56,7 @@ router.get('/', async (req, res) => {
                 await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
 
-⎆Welcome to 𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻
+⎆Welcome to THUNDER-CLASSIC-BUGBOT
 
 ⎆Whatsapp group 1: https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 
@@ -79,11 +79,11 @@ router.get('/', async (req, res) => {
                 Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
-│𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻 CONNECTED SUCCESSFULLY 
+│THUNDER-CLASSIC-BUGBOT CONNECTED SUCCESSFULLY 
 └┬❖  
-┌┤✑ credits to sir 𝑪𝑶𝑳𝑳𝑰𝑵𝑺 𝑺𝑴𝑰𝑻𝑯👊
+┌┤✑ credits to sir collins smith👊
 │└────────────┈ ⳹        
-│©2023-2024 *𝑻ʰᵘⁿᵈᵉʳ-𝑪ˡᵘˢˢⁱᶜ-𝑩ᵘᵍᵇᵒᵗ*
+│©2023-2024 THUNDER-CLASSIC-BUGBOT
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
 
         await delay(100);

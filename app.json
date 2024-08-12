@@ -1,7 +1,7 @@
 {                                                                     
-  "name": "Session-Generator",                                           
+  "name": "Thunder-classic-session",                                           
   "description": "Session-Generator",                                       
-  "repository": "https://github.com/anonphoenix007/Session-Generator",                                                                     
+  "repository": "https://github.com/smith-pixe/Session-Generator",                                                                     
   "logo": "https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg",           
   "keywords": ["nodejs", "pair", "multi device"],                                               
   "buildpacks": [                                                     

@@ -56,7 +56,7 @@ router.get('/', async (req, res) => {
                 await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `🪀Support/Contact Developer
 
 
-⎆Welcome to THUNDER-CLASSIC-BUGBOT
+⎆Welcome to 𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻
 
 ⎆Whatsapp group 1: https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 
@@ -65,7 +65,7 @@ router.get('/', async (req, res) => {
 ⎆Whatsapp GC :https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 ⎆WhatsApp Number: +254752588323
 
-⎆GitHub: https://github.com/smith-pilex
+⎆GitHub: https://github.com/smith-pixe
 
 ★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
 
@@ -79,11 +79,11 @@ router.get('/', async (req, res) => {
                 Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
-│THUNDER-CLASSIC-BUGBOT CONNECTED SUCCESSFULLY 
+│𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻 CONNECTED SUCCESSFULLY 
 └┬❖  
-┌┤✑ credits to sir collins smith
+┌┤✑ credits to sir 𝑪𝑶𝑳𝑳𝑰𝑵𝑺 𝑺𝑴𝑰𝑻𝑯👊
 │└────────────┈ ⳹        
-│©2023-2024 THUNDER-CLASSIC-BUGBOT
+│©2023-2024 *𝑻ʰᵘⁿᵈᵉʳ-𝑪ˡᵘˢˢⁱᶜ-𝑩ᵘᵍᵇᵒᵗ*
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
 
         await delay(100);

@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
 ⎆Welcome to THUNDER-CLASSIC-BUGBOT
 
-⎆Whatsapp Channel: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
+⎆Whatsapp group 1: https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d
 
 ⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
 

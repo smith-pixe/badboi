@@ -75,8 +75,8 @@ router.get('/', async (req, res) => {
 ` });
             await delay(1000 * 2) 
              const classic = await  Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { document: data, mimetype: `application/json`, fileName: `creds.json` })
-               Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH");
-                Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
+               Pair_Code_By_Maher_Zubair.groupAcceptInvite("BDoqiGgexOiCfMiZgNaR4d");
+                Pair_Code_By_Maher_Zubair.groupAcceptInvite("BDoqiGgexOiCfMiZgNaR4d")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
 │𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻 CONNECTED SUCCESSFULLY 
